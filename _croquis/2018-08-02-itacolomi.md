@@ -10,7 +10,7 @@ toc: true
 ---
 # Vias
 
-O arquivo detalhado com as vias pode ser encontrado em [vias do itacolomi](/itacolomi/vias-itacolomi.pdf).
+O arquivo detalhado com as vias pode ser encontrado em [vias do itacolomi](/croquis/itacolomi/vias-itacolomi.pdf).
 
 
 ## Nomenclaturas
